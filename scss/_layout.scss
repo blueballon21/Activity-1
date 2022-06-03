@@ -1,0 +1,5 @@
+.main-container{
+    height: 100%;
+    display: grid;
+    grid-template-rows: 136px calc(100vh - 136px) 100vh 185px;
+}
